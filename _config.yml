@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: D8info
 
 # Your name to show in the footer
-author: Some Person
+author: Marko Cajavec
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "o meni"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
